@@ -56,7 +56,7 @@ const {data, status} = useQuery(['businesses', latitude, longitude], fetchYelp )
 
 <PageHeader
     className="site-page-header"
-    title={<h1 class='text-2xl'> Yelpy </h1>}
+    title={<h1 class='text-2xl'> Yelpyy </h1>}
     subTitle="Hungry? Here. "
 
   /></div>
